@@ -1,4 +1,4 @@
 package com.prakharvarshney95.ex01.RestAssuredBasics;
 
-public class APITesting005 {
+public class APITesting005  {
 }
