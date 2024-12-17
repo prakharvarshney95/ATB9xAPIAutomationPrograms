@@ -1,4 +1,4 @@
-package com.prakharvarshney95.ex01.sampleCheck;
+package com.prakharvarshney95.ex02_sampleCheck;
 
 public class APITesting003_NoDesignPattern {
     public void step1(){

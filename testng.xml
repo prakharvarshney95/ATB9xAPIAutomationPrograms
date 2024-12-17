@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="/ATB9xAPIAutomationPrograms">
+    <test verbose="2" preserve-order="true" name="C:/Users/Prakhar Varshney/IdeaProjects/ATB9xAPIAutomationPrograms">
         <classes>
             <class name="com.prakharvarshney95.ex01.RestAssuredBasics.GET.APITesting007_GET_BDD_style">
+                <methods>
+                    <include name="test_GET_req_Positive"/>
+                    <include name="test_GET_req_Negative"/>
+                </methods>
             </class>
         </classes>
     </test>

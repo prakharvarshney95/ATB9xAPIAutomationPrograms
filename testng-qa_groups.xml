@@ -11,7 +11,7 @@
         </groups>
 
         <classes>
-            <class name="com.prakharvarshney95.ex01.testNG_examples.APITesting016_testNG_groups">
+            <class name="testNG_examples.com.prakharvarshney95.APITesting016_testNG_groups">
             </class>
         </classes>
     </test>

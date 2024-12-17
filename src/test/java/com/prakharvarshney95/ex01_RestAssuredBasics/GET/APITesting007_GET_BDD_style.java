@@ -1,4 +1,4 @@
-package com.prakharvarshney95.ex01.RestAssuredBasics.GET;
+package com.prakharvarshney95.ex01_RestAssuredBasics.GET;
 
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;

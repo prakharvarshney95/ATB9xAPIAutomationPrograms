@@ -5,7 +5,7 @@
         <parameter name="browser" value="firefox"></parameter>
         
         <classes>
-            <class name="com.prakharvarshney95.ex01.testNG_examples.APITesting018_testNG_parameter">
+            <class name="testNG_examples.com.prakharvarshney95.APITesting018_testNG_parameter">
             </class>
         </classes>
     </test>
