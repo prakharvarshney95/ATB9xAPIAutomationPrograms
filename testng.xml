@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Prakhar Varshney/IdeaProjects/ATB9xAPIAutomationPrograms">
         <classes>
-            <class name="com.prakharvarshney95.ex01.RestAssuredBasics.GET.APITesting007_GET_BDD_style">
+            <class name="com.prakharvarshney95.ex01_RestAssuredBasics.GET.APITesting007_GET_BDD_style">
                 <methods>
                     <include name="test_GET_req_Positive"/>
                     <include name="test_GET_req_Negative"/>
